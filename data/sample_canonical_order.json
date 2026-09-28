@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "sourceIdocNumber": "0000000008472910",
+    "messageType": "ORDERS",
+    "senderPartner": "S4H_CLNT100",
+    "recipientPartner": "CPI_TENANT",
+    "creationTimestamp": "20260928T120000"
+  },
+  "order": {
+    "orderNumber": "4500019283",
+    "currency": "USD",
+    "documentDate": "20260928",
+    "parties": [
+      {
+        "role": "AG",
+        "partnerId": "0000100492",
+        "name": "Apex Industrial Supply Inc",
+        "city": "Chicago",
+        "country": "US"
+      },
+      {
+        "role": "WE",
+        "partnerId": "0000100493",
+        "name": "Apex Distribution Center #4",
+        "city": "Dallas",
+        "country": "US"
+      }
+    ],
+    "items": [
+      {
+        "itemNumber": "00010",
+        "material": "MAT-VALVE-901",
+        "quantity": 250.0,
+        "unitOfMeasure": "PCE",
+        "netPrice": 125.50
+      },
+      {
+        "itemNumber": "00020",
+        "material": "MAT-GASKET-440",
+        "quantity": 50.0,
+        "unitOfMeasure": "PCE",
+        "netPrice": 18.75
+      }
+    ]
+  }
+}

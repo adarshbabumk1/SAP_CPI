@@ -51,7 +51,7 @@ Message processData(Message message) {
     // 2. Build RFC 7807 JSON Error Body
     def jsonBuilder = new JsonBuilder()
     jsonBuilder {
-        type "https://api.enterprise.com/errors/${errorCode.toLowerCase()}"
+        type "https://<integration-runtime-host>/errors/${errorCode.toLowerCase()}"
         title errorTitle
         status statusCode
         detail detailedMessage

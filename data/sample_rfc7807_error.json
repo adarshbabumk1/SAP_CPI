@@ -1,0 +1,10 @@
+{
+  "type": "https://<integration-runtime-host>/errors/auth_failure_401",
+  "title": "Unauthorized Backend Access",
+  "status": 401,
+  "detail": "Failed to authenticate against destination SAP S/4HANA via Cloud Connector. Invalid OAuth token or credential expired.",
+  "instance": "/v1/integrations/OrderProcessing_Flow/executions/8fa3c001-9214-411a-a002-c9231804821a",
+  "code": "AUTH_FAILURE_401",
+  "timestamp": "2026-09-28T07:30:00.000Z",
+  "correlationId": "8fa3c001-9214-411a-a002-c9231804821a"
+}
