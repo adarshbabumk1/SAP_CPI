@@ -1,11 +1,11 @@
-# 🚀 SAP PO/PI to SAP Cloud Integration (CPI) Migration Blueprints & Patterns
+# 🚀 SAP PO to SAP Cloud Integration (CPI) Migration Blueprints & Patterns
 
 [![SAP Integration Suite](https://img.shields.io/badge/SAP-Integration_Suite-008FD3?style=for-the-badge&logo=sap&logoColor=white)](https://community.sap.com/topics/integration-suite)
 [![Apache Groovy](https://img.shields.io/badge/Apache_Groovy-2.4_%2F_3.0-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white)](https://groovy-lang.org/)
 [![XSLT](https://img.shields.io/badge/XSLT-2.0_%2F_3.0-FF6600?style=for-the-badge&logo=xml&logoColor=white)](https://www.w3.org/TR/xslt-30/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 
-An enterprise-grade repository and architectural blueprint for migrating legacy **SAP Process Orchestration (PO 7.5 Single-Stack AEX / Dual-Stack PI)** to **SAP Cloud Integration (CPI)** within the **SAP BTP Integration Suite**.
+An enterprise-grade repository and architectural blueprint for migrating legacy **SAP Process Orchestration (PO 7.4 / 7.5 Single-Stack Java AEX)** to **SAP Cloud Integration (CPI)** within the **SAP BTP Integration Suite**.
 
 This repository provides working Groovy scripts, XSLT transformations, iFlow architecture patterns, and side-by-side artifact mapping references.
 

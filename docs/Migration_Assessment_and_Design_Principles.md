@@ -49,4 +49,4 @@ Each PO scenario is classified into one of three migration categories:
   * Intercept `CamelExceptionCaught`.
   * Map backend error XML/faults into standardized RFC 7807 JSON.
   * Update the Message Processing Log (MPL) with error classification properties (`Error_Category`, `Error_Code`).
-  * Route fatal alerts to IT notification channels (SAP Cloud ALM, ServiceNow, or Email).
+  * Route fatal alerts to IT notification channels (SAP Cloud ALM, Enterprise Alert Queues, or Email).

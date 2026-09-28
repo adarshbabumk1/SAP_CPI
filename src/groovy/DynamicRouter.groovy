@@ -8,7 +8,7 @@ import groovy.xml.XmlSlurper
  * Enterprise Dynamic Routing Script for SAP Cloud Integration.
  * 
  * Inspects incoming message header/body to dynamically evaluate:
- *  - Target System Routing Key (e.g. SFDC, S4HANA, SERVICENOW)
+ *  - Target System Routing Key (e.g. SFDC, S4HANA, LOGISTICS)
  *  - Target ProcessDirect Address (e.g. /finance/orders/s4)
  *  - Execution Priority (HIGH, MEDIUM, LOW)
  * 

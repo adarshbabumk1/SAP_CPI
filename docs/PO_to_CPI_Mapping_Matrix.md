@@ -1,6 +1,6 @@
-# 📋 SAP PO/PI to SAP Cloud Integration (CPI) Comprehensive Mapping Matrix
+# 📋 SAP PO to SAP Cloud Integration (CPI) Comprehensive Mapping Matrix
 
-This document provides enterprise architects and integration developers with a direct side-by-side transition matrix when modernizing legacy **SAP NetWeaver PI/PO (Dual-Stack & Single-Stack 7.5 AEX)** artifacts to **SAP BTP Integration Suite (Cloud Integration)**.
+This document provides technical leads and integration developers with a direct side-by-side transition matrix when modernizing legacy **SAP Process Orchestration (PO 7.4 / 7.5 Single-Stack Java AEX)** artifacts to **SAP BTP Integration Suite (Cloud Integration)**.
 
 ---
 
