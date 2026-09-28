@@ -52,7 +52,7 @@ This document provides technical leads and integration developers with a direct 
 | :--- | :--- | :--- |
 | **IDoc_AAE** | **IDoc / OData** | S/4HANA can send IDocs directly via Cloud Connector or be modernized to OData APIs / Business Events. |
 | **RFC** | **RFC Adapter** | Connects to on-prem ABAP instances using SAP Cloud Connector via RFC over WebSocket / SNC. |
-| **FILE / FTP** | **SFTP / S3 / Azure Blob** | Deprecate unencrypted FTP. Use modern SFTP or native cloud object storage connectors. |
+| **FILE / FTP** | **SFTP / Cloud Storage (GCS, S3)** | Deprecate unencrypted FTP. Use modern SFTP or native cloud object storage connectors. |
 | **JDBC** | **JDBC / OData** | Direct DB querying via Cloud Connector JDBC, or prefer SAP Core Data Services (CDS) views exposed as OData. |
 | **SOAP (XI3.0 / Axis)** | **SOAP (1.1 / 1.2 / RM)** | Supports standard WS-Security, basic authentication, and client certificate authentication (mTLS). |
 | **REST** | **HTTP / HTTPS / REST** | Native REST sender/receiver with JSON/XML automatic negotiation and dynamic URI query param bindings. |
