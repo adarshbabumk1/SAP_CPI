@@ -12,7 +12,7 @@ import groovy.json.JsonBuilder
  * 
  * Sets HTTP status code headers and logs root causes into the SAP MPL.
  * 
- * @author Adarsh (SAP Integration Architect)
+ * @author Adarsh (Tech Lead - SAP Integration)
  */
 Message processData(Message message) {
     // 1. Retrieve the underlying Camel/CPI exception

@@ -3,7 +3,7 @@
     XSLT 2.0 / 3.0 Mapping: SAP IDoc (ORDERS05) to Canonical Enterprise JSON Order
     Used in SAP Cloud Integration to bypass graphical message mapping overhead.
     
-    Author: Adarsh (SAP Integration Architect)
+    Author: Adarsh (Tech Lead - SAP Integration)
 -->
 <xsl:stylesheet version="2.0" 
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform"

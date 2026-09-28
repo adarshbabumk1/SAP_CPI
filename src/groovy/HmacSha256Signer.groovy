@@ -14,7 +14,7 @@ import java.util.Base64
  * 
  * Generates both Hex and Base64 encoded HMAC signatures from body payload.
  * 
- * @author Adarsh (SAP Integration Architect)
+ * @author Adarsh (Tech Lead - SAP Integration)
  */
 Message processData(Message message) {
     // 1. Read secret key from Secure Parameter or Keystore (simulated via Property)

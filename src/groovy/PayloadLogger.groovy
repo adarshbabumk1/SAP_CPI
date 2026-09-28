@@ -12,7 +12,7 @@ import java.util.regex.Pattern
  *  - Safe stream handling without exhausting Reader/InputStream
  *  - Custom Attachment naming with timestamp and step context
  * 
- * @author Adarsh (SAP Integration Architect)
+ * @author Adarsh (Tech Lead - SAP Integration)
  */
 Message processData(Message message) {
     // 1. Check if logging is enabled for this execution (can be driven by header, property, or partner directory)

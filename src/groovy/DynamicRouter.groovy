@@ -15,7 +15,7 @@ import groovy.xml.XmlSlurper
  * Replaces legacy SAP PO XPath-based Receiver Determination without multiple
  * DOM tree builds.
  * 
- * @author Adarsh (SAP Integration Architect)
+ * @author Adarsh (Tech Lead - SAP Integration)
  */
 Message processData(Message message) {
     String payload = message.getBody(java.lang.String) as String
